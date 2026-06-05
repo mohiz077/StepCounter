@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
@@ -48,3 +49,31 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+=======
+# 🏃‍♂️ StepCounter
+
+A high-performance, responsive React Native step counter application built with React Native, TypeScript and Expo, utilizing SQLite for seamless local data storage. 
+
+Features a sleek, minimalist user interface optimized for smooth tracking and progress visualization.
+
+---
+
+## 🚀 Features
+
+*   **Real-time Step Counting:** Directly tracks user steps utilizing the device's built-in accelerometer sensors via `expo-sensors`.
+*   **Progress Visualization:** 
+    *   Dynamic circular progress ring for daily goals.
+    *   Comprehensive historical data charts using `react-native-svg`.
+*   **Data Persistence:** Robust and secure local storage of step history using a self-contained SQLite database.
+*   **User-Centric Interface:** Clean, highly responsive control elements to effortlessly start, stop, and reset step tracking workflows.
+
+---
+
+## 🛠️ Technologies Used
+
+*   **Framework:** React Native (Expo Managed Workflow)
+*   **Language:** TypeScript
+*   **Sensors:** `expo-sensors` (Accelerometer API)
+*   **Database:** `expo-sqlite`
+*   **Graphics/UI:** `react-native-svg`
+>>>>>>> 01bc2d0c898aee0323d204800f72fc6e34a72cde
