@@ -1,6 +1,6 @@
 # 🏃‍♂️ StepCounter
 
-A high-performance, responsive React Native step counter application built with TypeScript and Expo, utilizing SQLite for seamless local data storage. 
+A high-performance, responsive React Native step counter application built with React Native, TypeScript and Expo, utilizing SQLite for seamless local data storage. 
 
 Features a sleek, minimalist user interface optimized for smooth tracking and progress visualization.
 
